@@ -7,9 +7,9 @@
 
 ##
 
-<div> 
+<div align="center"> 
  <a href="https://github.com/gustavotrespach">
- <img height= "220em" src="https://github-readme-stats.vercel.app/api?username=gustavotrespach&show_icons=true&theme=dark"/> 
+ <img width="525em" height= "220em" src="https://github-readme-stats.vercel.app/api?username=gustavotrespach&show_icons=true&theme=dark"/> 
  <img width="525em"  height= "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavotrespach&show_icons=true&theme=dark"/>    
 </div>
  
@@ -24,9 +24,12 @@
   ##
  
 <div>
-  <a href="https://instagram.com/_3pach_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-trespach-83a160269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://contate.me/gustavotrespach-github" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
+  <a href="https://instagram.com/_3pach_" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-trespach-83a160269/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://contate.me/gustavotrespach-github" target="_blank"> 
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"></a>
  </div> 
   
  <div align="center">
