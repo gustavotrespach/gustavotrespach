@@ -18,7 +18,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="-pic" height="150" style="border-radius:50px;" src=https://instagram.fpoa35-1.fna.fbcdn.net/v/t51.2885-19/315328389_133287376177932_4880602432274131161_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpoa35-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=FyfpGHi5cwEAX8rWgz1&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCMhbzNQpTFLtNZmGdUZ8l0cHue0XinQE2LRfp29heg9w&oe=645CB18B&_nc_sid=1527a3>  
+  <img align="right" alt="-pic" height="150" style="border-radius:50px;" src=>  
 </div>
   
   ##
